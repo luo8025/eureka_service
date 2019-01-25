@@ -1,4 +1,4 @@
-package com.luo.eureka_service;
+package com.luo.eureka_server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

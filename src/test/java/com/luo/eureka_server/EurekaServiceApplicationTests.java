@@ -1,4 +1,4 @@
-package com.luo.eureka_service;
+package com.luo.eureka_server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
